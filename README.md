@@ -6,6 +6,7 @@ A programming strategy game based loosely on the JavaScript MMO RTS Screeps (htt
 * Keeps the same state-less design to encourage state management
 
 Loose roadmap:
+
 v1.0
   * Player code exists in a separate project
   * Basic screep, spawn, control, road, turret behavior
