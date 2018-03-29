@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screeps.Net.Windows", "Screeps.Net.Windows\Screeps.Net.Windows.csproj", "{DEFFC4E1-AE80-4DB1-B473-3F7942F51CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screeps.Net", "Screeps.Net\Screeps.Net.csproj", "{B8A71B19-37EF-4283-AB20-3A472C3449D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player1", "Player1\Player1.csproj", "{0A032161-900A-4AA8-96FC-932E99655786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEFFC4E1-AE80-4DB1-B473-3F7942F51CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFFC4E1-AE80-4DB1-B473-3F7942F51CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFFC4E1-AE80-4DB1-B473-3F7942F51CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFFC4E1-AE80-4DB1-B473-3F7942F51CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A71B19-37EF-4283-AB20-3A472C3449D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A71B19-37EF-4283-AB20-3A472C3449D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A71B19-37EF-4283-AB20-3A472C3449D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A71B19-37EF-4283-AB20-3A472C3449D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A032161-900A-4AA8-96FC-932E99655786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A032161-900A-4AA8-96FC-932E99655786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A032161-900A-4AA8-96FC-932E99655786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A032161-900A-4AA8-96FC-932E99655786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
